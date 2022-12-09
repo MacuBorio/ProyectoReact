@@ -1,0 +1,17 @@
+[
+
+    {"id":1, "nombre": "Citrino", "descripcion": "Perfecta para atraer un poco de luz a tu vida. Ayuda a respaldar el crecimiento y a eliminar cualquier energía negativa. También se conecta con tu chakra del plexo solar, encargado de la autoestima, confianza y poder personal.", "precio": 400 , "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/135/551/products/citrino1-8cb044f86acc4a16e515924862436162-1024-1024.webp", "stock": 15 },
+
+    {"id":2, "nombre": "Amatista", "descripcion": "Conocida por sus cualidades pacíficas y relajantes. Libera el estrés y ayuda a la relajación a la hora de dormir.", "precio": 400 , "imagen":"https://d26lpennugtm8s.cloudfront.net/stores/764/797/rte/Piedras108MALAS-01.png", "stock": 8 },
+
+    {"id":3, "nombre": "Turmalina", "descripcion": "Este cristal es el más utilizado para la protección y absorción de energías negativas. Actúa protegiéndote del “mal de ojo” o descargas negativas de energía que puedan acercarse a tu campo energético.", "precio": 400 , "imagen":"./public/copia-de-img_6744-b1-6546b1d48f8ed709db15696060323556-1024-1024.webp", "stock": 11 },
+
+    {"id":4, "nombre": "Cuarzo Rosa", "descripcion": "Abre tu chakra del corazón para querer en todas las formas posibles: de manera romántica, amistad, familia o incluso laboral. También te libera de cualquier emoción tóxica.", "precio": 400 , "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/135/551/products/cuarzo-rosa-retocado1-f3ce3b3819d06acfa915924860195436-1024-1024.webp", "stock": 9},
+
+    {"id":5, "nombre": "Dije de Turmalina", "descripcion": "Este cristal es el más utilizado para la protección y absorción de energías negativas. Actúa protegiéndote del “mal de ojo” o descargas negativas de energía que puedan acercarse a tu campo energético.", "precio": 1400 , "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/135/551/products/img_43731-9df5eecd3eae03f54d15439353212401-1024-1024.webp", "stock": 6 },
+
+    {"id":6, "nombre": "Dije cristal Mini Punta", "descripcion": "Los cristales trabajan con tu campo aurico cuando los llevas cerca de tu cuerpo. Usar dijes con cristales es ideal para estar energizadx o protegidx.", "precio": 1500 , "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/135/551/products/copia-de-img_6744-b1-6546b1d48f8ed709db15696060323556-1024-1024.webp", "stock": 18 },
+    
+    {"id":7, "nombre": "Punta de Cuarzo Cristal", "descripcion": "Las puntas de cuarzo direccionan la energía, y se usan para sanación. Si se apunta hacia adentro, dirige a energía hacia el interior del cuerpo, por el contrario, expulsa la energía hacia afuera, favoreciendo el recambio.", "precio": 1600 , "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/135/551/products/9-cristales-transparentes1-f6115a21605f15669d16160056546240-1024-1024.webp", "stock": 12 }
+
+]
